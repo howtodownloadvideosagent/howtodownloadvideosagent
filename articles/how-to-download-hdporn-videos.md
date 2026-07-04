@@ -18,7 +18,7 @@ Hdporn Downloader is a browser extension built for users who want a cleaner way 
 - Prefer generic `yt-dlp` and FFmpeg workflows over guessed CDN paths
 - Report clear failures for private videos, expired signatures, missing access, DRM, and unsupported players
 
-👉 Click here to try it free: https://serp.ly/hdporn-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/hdporn-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 

@@ -16,7 +16,7 @@ inXXX Downloader is a browser extension built for users who want a cleaner way t
 - Report unsupported DRM or authorization failures clearly instead of pretending they are downloadable
 - Use a browser-native workflow instead of separate desktop tools
 
-👉 Click here to try it free: https://serp.ly/inxxx-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/inxxx-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 

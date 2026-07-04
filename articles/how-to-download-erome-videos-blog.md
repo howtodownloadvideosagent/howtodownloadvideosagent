@@ -18,7 +18,7 @@ EroMe Downloader is a browser extension built for users who want a cleaner way t
 - Avoid manual URL extraction for common generic embedded-player cases
 - Report clear unsupported states such as login required, expired URL, geo block, DRM, or missing manifest
 
-👉 Click here to try it free: https://serp.ly/erome-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/erome-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 

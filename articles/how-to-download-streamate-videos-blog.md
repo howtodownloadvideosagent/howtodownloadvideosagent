@@ -16,7 +16,7 @@ Streamate Downloader is a browser extension built for users who want a cleaner w
 - Report offline rooms, private shows, missing credits or entitlements, expired manifests, DRM, and unsupported transports
 - Use a browser-native workflow instead of separate command-line setup
 
-👉 Click here to try it free: https://serp.ly/streamate-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/streamate-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 

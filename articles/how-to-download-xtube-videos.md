@@ -16,7 +16,7 @@ Xtube Downloader is a browser extension built for users who want a cleaner way t
 - Export detected video as a standard local media file when supported
 - Use a browser-native workflow instead of separate desktop tools
 
-👉 Click here to try it free: https://serp.ly/xtube-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/xtube-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 

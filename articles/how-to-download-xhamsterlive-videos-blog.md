@@ -16,7 +16,7 @@ XHamsterLive Downloader is a browser extension built for users who want a cleane
 - Report offline rooms, private shows, missing entitlements, expired manifests, DRM, and unsupported transports
 - Use a browser-native workflow instead of command-line guesswork
 
-👉 Click here to try it free: https://serp.ly/xhamsterlive-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/xhamsterlive-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 

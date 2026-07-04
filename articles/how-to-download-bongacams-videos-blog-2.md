@@ -16,7 +16,7 @@ Bongacams Downloader is a browser extension built for users who want a cleaner w
 - Report clear limits for expired links, login walls, live-only playback, DRM, and unsupported players
 - Use browser-native detection before falling back to command-line inspection
 
-👉 Click here to try it free: https://serp.ly/bongacams-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/bongacams-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 

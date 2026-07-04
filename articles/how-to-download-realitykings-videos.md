@@ -16,7 +16,7 @@ RealityKings Downloader is a browser extension built for users who want a cleane
 - Report clear limits for expired sessions, missing entitlements, private content, DRM, and unsupported players
 - Use a browser-native workflow instead of manual developer-tools inspection
 
-👉 Click here to try it free: https://serp.ly/realitykings-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/realitykings-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 

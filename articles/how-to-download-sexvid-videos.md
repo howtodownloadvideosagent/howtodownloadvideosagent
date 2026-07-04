@@ -18,7 +18,7 @@ Sexvid Downloader is a browser extension built for users who want a cleaner way 
 - Avoid manual URL extraction for common generic embedded-player cases
 - Report clear unsupported states such as login required, expired URL, geo block, DRM, or missing manifest
 
-👉 Click here to try it free: https://serp.ly/sexvid-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/sexvid-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 

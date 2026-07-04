@@ -16,7 +16,7 @@ If you prefer a simpler one-click method, check out the 91porn Video Downloader 
 - Export detected video as a standard local media file when supported
 - Use a browser-native workflow instead of separate desktop tools
 
-👉 Click here to try it free: https://serp.ly/91porn-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent
+👉 [Click here to try it free](https://serp.ly/91porn-downloader?via=github&utm_source=github&utm_medium=piggyback&utm_campaign=howtodownloadvideosagent)
 
 ---
 
